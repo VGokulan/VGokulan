@@ -1,23 +1,76 @@
-<h1 align="center">Hi 👋, I'm Gokulan V</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about turning data into insights and building intelligent systems. Here, you'll find a collection of my work, from data analysis projects to AI experiments.</h3>
+# 👋 Hi, I'm Gokulan V
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgokulan&label=Profile%20views&color=0e75b6&style=flat" alt="vgokulan" /> </p>
+**Aspiring AI Engineer | Machine Learning Enthusiast | Creative Problem Solver**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VGokulan](https://github.com/VGokulan)
+🔬 Currently pursuing **B.Tech in Artificial Intelligence and Data Science** at SMVEC, Puducherry (GPA: 8.5/10)
 
-- 📫 How to reach me **gokulanvaitti@gmail.com**
+💡 Passionate about building impactful AI solutions that combine software intelligence with real-world hardware applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gokulan-v-3b8304257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulan" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vgokulan&show_icons=true&locale=en&layout=compact" alt="vgokulan" /></p>
+### 🦯 [A-Eye — Assistant for the Visually Impaired](https://github.com/VGokulan)
+AI-powered wearable assistant featuring:
+- Voice-enabled scene reading
+- Face recognition with memory recall (OpenCV + TensorFlow)
+- Real-time visual assistance via ESP32-CAM and servo integration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vgokulan&show_icons=true&locale=en" alt="vgokulan" /></p>
+### ♻️ Lakshmi — Smart Waste Management System
+- Real-time waste monitoring using ultrasonic sensors and ESP32
+- Forecasting with ARIMA + Random Forest
+- Route optimization using Google Maps API and vehicle capacity logic
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vgokulan&" alt="vgokulan" /></p>
+### 💊 MediGuard — AI Drug Interaction Analyzer
+- RAG-based system to detect harmful drug interactions
+- Real-time recommendations and doctor-friendly dashboard
 
+### 🚗 SafeDrive — Driver Risk Detection System
+- Real-time video analysis using computer vision to detect distractions
+- Alerts for drowsiness, mobile use, and inattention
+
+---
+
+## 🧠 Skills
+
+**Languages**: Python, SQL  
+**AI/ML**: Scikit-learn, TensorFlow, PyTorch, Keras, YOLOv8  
+**Frameworks**: LangChain, Streamlit  
+**Databases**: SQL, MongoDB  
+**Other**: Generative AI, RAG, NLP, LLMs
+
+🛠 AI Workflow:  
+`Data Collection → Preprocessing → Modeling → Deployment`
+
+🧠 Soft Skills:  
+Problem Solving • Teamwork • Time Management • Decision-Making
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Prize**, Innovarium Hackathon – Sri Krishna College of Engineering  
+- 🥇 **1st Prize**, Web Dev Contest – Sri Manakula Vinayagar Engineering College  
+- 🎯 **Finalist**, HackFest 2.0 – CMR College, Hyderabad
+
+---
+
+## 📜 Certifications
+
+- Business Analyst (Celonis) – [Credly](https://www.credly.com/badges/0f852b72-8e0d-4c06-af12-7bcaa9557389/public_url)  
+- AI/ML (Google for Developers) – [Badge](https://g.dev/GokulanV_SMVEC)  
+- Supervised ML (Coursera) – [Link](https://www.credly.com/badges/af69f726-79cb-4c0e-b973-0e1b22bfd636/public_url)  
+- Python for Data Science (NPTEL)  
+- Cloud Foundations (AWS Academy)
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio / Projects](https://github.com/VGokulan)  
+- 💼 [LinkedIn](https://linkedin.com/in/gokulan-v-3b8304257)  
+- ✉️ gokulanvaitti@gmail.com
+
+---
+
+_“The future belongs to those who build it — one line of code at a time.”_
