@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-### 🦯 [A-Eye — Assistant for the Visually Impaired](https://github.com/VGokulan)
+### 🦯 A-Eye — Assistant for the Visually Impaired
 AI-powered wearable assistant featuring:
 - Voice-enabled scene reading
 - Face recognition with memory recall (OpenCV + TensorFlow)
