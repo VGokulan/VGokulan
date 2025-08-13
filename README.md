@@ -8,6 +8,22 @@
 
 ---
 
+## 🧠 Skills
+
+**Languages**: Python, SQL  
+**AI/ML**: Scikit-learn, TensorFlow, PyTorch, Keras, YOLOv8  
+**Frameworks**: LangChain, Streamlit  
+**Databases**: SQL, MongoDB  
+**Other**: Generative AI, RAG, NLP, LLMs
+
+🛠 AI Workflow:  
+`Data Collection → Preprocessing → Modeling → Deployment`
+
+🧠 Soft Skills:  
+Problem Solving • Teamwork • Time Management • Decision-Making
+
+---
+
 ## 🚀 Projects
 
 ### 🦯 A-Eye — Assistant for the Visually Impaired
@@ -28,22 +44,6 @@ AI-powered wearable assistant featuring:
 ### 🚗 SafeDrive — Driver Risk Detection System
 - Real-time video analysis using computer vision to detect distractions
 - Alerts for drowsiness, mobile use, and inattention
-
----
-
-## 🧠 Skills
-
-**Languages**: Python, SQL  
-**AI/ML**: Scikit-learn, TensorFlow, PyTorch, Keras, YOLOv8  
-**Frameworks**: LangChain, Streamlit  
-**Databases**: SQL, MongoDB  
-**Other**: Generative AI, RAG, NLP, LLMs
-
-🛠 AI Workflow:  
-`Data Collection → Preprocessing → Modeling → Deployment`
-
-🧠 Soft Skills:  
-Problem Solving • Teamwork • Time Management • Decision-Making
 
 ---
 
