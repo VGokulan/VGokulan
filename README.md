@@ -72,5 +72,3 @@ AI-powered wearable assistant featuring:
 - ✉️ gokulanvaitti@gmail.com
 
 ---
-
-_“The future belongs to those who build it — one line of code at a time.”_
